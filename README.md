@@ -24,5 +24,6 @@ Sistema de gestión backend simulado para el control de flotas de robots (Drones
  ```Bash
   npm install```
 
+
 👨‍💻 Autor
-Cristhian Campos - Bachiller en ingeniería mecatrónica
+```Cristhian Campos - Bachiller en ingeniería mecatrónica```
